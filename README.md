@@ -1,6 +1,6 @@
 ### Hi, I'm Ritaj 👋
 
-AI Engineer in Riyadh. I build machine learning models, LLM-powered agents and data apps, and I care about honest validation: checking for leakage, reporting negative results, and making sure the numbers hold up.
+AI Engineer. I build machine learning models, LLM-powered agents and data apps, and I care about honest validation: checking for leakage, reporting negative results, and making sure the numbers hold up.
 
 - B.Sc. Information Systems (Data Science track), King Abdulaziz University
 - AI & Data Science Diploma, Tuwaiq Academy (2026)
