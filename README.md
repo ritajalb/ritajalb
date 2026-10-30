@@ -14,7 +14,7 @@ AI Engineer. I build machine learning models, LLM-powered agents and data apps, 
 | [**solariq**](https://github.com/ritajalb/solariq) | Solar output and next-day dust-risk forecasting for Saudi cities, with the trained models running in the browser · [live demo](https://ritajalb.github.io/solariq/) |
 | [**fahem**](https://github.com/ritajalb/fahem) | Arabic LLM tutoring agent that teaches a PDF chapter in colloquial Arabic, tracks mastery and detects knowledge gaps (FastAPI) |
 | [**fifa2034-weather-analysis**](https://github.com/ritajalb/fifa2034-weather-analysis) | Streamlit dashboard of heat stress (simplified WBGT) across 438K hourly records for the five 2034 World Cup host cities |
-| [**saudi-rain-map**](https://github.com/ritajalb/saudi-rain-map) | Interactive weather contour map of Saudi Arabia: 48-hour forecast and ERA5 history, with province boundaries |
+| [**saudi-rain-map**](https://github.com/ritajalb/saudi-rain-map) | Interactive weather contour map of Saudi Arabia: 48-hour forecast and ERA5 history |
 | [**Laptop-Price-ML-Dashboard**](https://github.com/ritajalb/Laptop-Price-ML-Dashboard) | End-to-end price prediction, from cleaning and feature engineering to a model comparison, in a Streamlit app |
 
 More: [yaqeen-prayer-posture](https://github.com/ritajalb/yaqeen-prayer-posture) (IEEE AICCSA 2025) · [jeddah-urban-greening](https://github.com/ritajalb/jeddah-urban-greening) · [email-triage-agent](https://github.com/ritajalb/email-triage-agent) · [ai-coursework](https://github.com/ritajalb/ai-coursework)
